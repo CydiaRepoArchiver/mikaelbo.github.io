@@ -31,6 +31,22 @@ Description: Enables battery and record buttons in Control Center.
 Author: mbo42
 Name: CCAdditions
 
+Package: com.mbo42.copymapsdestination
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 120
+Depends: mobilesubstrate, firmware(>= 10)
+Filename: ./debs/com.mbo42.copymapsdestination_1.0_iphoneos-arm.deb
+Size: 5350
+MD5sum: 9dd7e65f3ead6b6f414430797cf91936
+SHA1: 6a80beeda2c54c996a55041f2eaabcd2446bf799
+SHA256: 7d726295a376b697ddfb67fd8f11ca5229c602f619d72f8642c7c25ed8329f5c
+Section: Tweaks
+Description: Adds an option to copy the destination on Apple Maps when in "directions" mode.
+Author: mbo42
+Name: CopyMapsDestination
+
 Package: com.mbo42.momoautoswipe
 Version: 1.0
 Architecture: iphoneos-arm
