@@ -38,10 +38,10 @@ Maintainer: mbo42
 Installed-Size: 120
 Depends: mobilesubstrate, firmware(>= 8)
 Filename: ./debs/com.mbo42.momoautoswipe_1.0_iphoneos-arm.deb
-Size: 7894
-MD5sum: 5d86cf0b4cb15f77642f921ea8fe9956
-SHA1: 7aab1503d10c84d86163e0f60e3226506df3f662
-SHA256: 93bbefd9f1f989a1ac522486061ce36bf0e499798ab18bf1db9837aea5a746fc
+Size: 7892
+MD5sum: 2c6fcf705b2759c2c83c6199b5168317
+SHA1: 28401846b5c65375720fd63177557bae28d9b5ba
+SHA256: 009b68243ff8278fbbe6174f2de00287eb19a57d641b433e34ba97f7c4096ef1
 Section: Tweaks
 Description: Auto swipe those cards!
 Author: mbo42
@@ -63,4 +63,20 @@ Description: Easily toggle between using a proxy on WiFi.
 Author: mbo42
 Icon: file:///Library/Application Support/ProxySwitcher/ProxySwitcherBundle.bundle/icon.png
 Name: ProxySwitcher
+
+Package: com.mbo42.tinderpreview
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 188
+Depends: mobilesubstrate, firmware(>= 8)
+Filename: ./debs/com.mbo42.tinderpreview_1.0_iphoneos-arm.deb
+Size: 32072
+MD5sum: 1305d6ca0e6c14e8afea46d6c637e2e0
+SHA1: 78f6fc5f8b45c191603fff40d2d17e5481e9cb40
+SHA256: fcae7479351d03d0789f5b9dd07c258ffdb4976537d4cd90ad0f943def5438c4
+Section: Tweaks
+Description: A small tweak that adds a convenient way of previewing and handling matches in Tinder.
+Author: mbo42
+Name: TinderPreview
 
