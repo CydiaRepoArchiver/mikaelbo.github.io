@@ -1,0 +1,66 @@
+Package: com.mbo42.WeChatEnvelope
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 212
+Depends: mobilesubstrate, firmware(>= 8)
+Filename: ./debs/com.mbo42.WeChatEnvelope_1.0_iphoneos-arm.deb
+Size: 72426
+MD5sum: 9f302c3eb1a7b3d8e7cfedf558fd2d47
+SHA1: 06bcf4b9f64ae67a03aa094520f7684d54a8c16c
+SHA256: 2e917794327915a97293e3669b4b9d6b8dd4e1342bb02aaafe4e40df3b49f93a
+Section: Tweaks
+Description: WeChat - reimagined. Jk, just a small tweak for opening red envelopes.
+Author: mbo42
+Icon: file:///Library/Application Support/WeChatEnvelope/WeChatEnvelopeBundle.bundle/Icon.png
+Name: WeChat Envelope
+
+Package: com.mbo42.ccadditions
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 120
+Depends: mobilesubstrate, firmware(>= 10)
+Filename: ./debs/com.mbo42.ccadditions_1.0_iphoneos-arm.deb
+Size: 4246
+MD5sum: 3bcda3d215d98c13a1690e4e9fe398dc
+SHA1: 526264a214946b721c168ca79b9fb6bf9b97da29
+SHA256: 5e6ed8c652bfdf0435a0f36d44ecf86480049fffe79760c04dae5d7e8f4f688d
+Section: Tweaks
+Description: Enables battery and record buttons in Control Center.
+Author: mbo42
+Name: CCAdditions
+
+Package: com.mbo42.momoautoswipe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 120
+Depends: mobilesubstrate, firmware(>= 8)
+Filename: ./debs/com.mbo42.momoautoswipe_1.0_iphoneos-arm.deb
+Size: 7894
+MD5sum: 5d86cf0b4cb15f77642f921ea8fe9956
+SHA1: 7aab1503d10c84d86163e0f60e3226506df3f662
+SHA256: 93bbefd9f1f989a1ac522486061ce36bf0e499798ab18bf1db9837aea5a746fc
+Section: Tweaks
+Description: Auto swipe those cards!
+Author: mbo42
+Name: MomoAutoSwipe
+
+Package: com.mbo42.proxyswitcher
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 640
+Depends: mobilesubstrate, PreferenceLoader,firmware(>= 8), firmware (<< 9.1) | org.thebigboss.libstatus9, firmware (>= 9.0) | libstatusbar
+Filename: ./debs/com.mbo42.proxyswitcher_1.0_iphoneos-arm.deb
+Size: 75982
+MD5sum: 1da4174eb5c1f41e442bc2dd7af16270
+SHA1: 089094fd8fee8f74010cdbb9812b1045359c41a9
+SHA256: 3cefbb260965148d8a498dfa86829182712445c432e26be4d2c4e8f46ca5b767
+Section: Tweaks
+Description: Easily toggle between using a proxy on WiFi.
+Author: mbo42
+Icon: file:///Library/Application Support/ProxySwitcher/ProxySwitcherBundle.bundle/icon.png
+Name: ProxySwitcher
+
