@@ -1,0 +1,98 @@
+Package: com.mbo42.WeChatEnvelope
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 212
+Depends: mobilesubstrate, firmware(>= 8)
+Filename: ./debs/com.mbo42.WeChatEnvelope_1.0_iphoneos-arm.deb
+Size: 72426
+MD5sum: 9f302c3eb1a7b3d8e7cfedf558fd2d47
+SHA1: 06bcf4b9f64ae67a03aa094520f7684d54a8c16c
+SHA256: 2e917794327915a97293e3669b4b9d6b8dd4e1342bb02aaafe4e40df3b49f93a
+Section: Tweaks
+Description: WeChat - reimagined. Jk, just a small tweak for opening red envelopes.
+Author: mbo42
+Icon: file:///Library/Application Support/WeChatEnvelope/WeChatEnvelopeBundle.bundle/Icon.png
+Name: WeChat Envelope
+
+Package: com.mbo42.ccadditions
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 120
+Depends: mobilesubstrate, firmware(>= 10)
+Filename: ./debs/com.mbo42.ccadditions_1.0_iphoneos-arm.deb
+Size: 4246
+MD5sum: 3bcda3d215d98c13a1690e4e9fe398dc
+SHA1: 526264a214946b721c168ca79b9fb6bf9b97da29
+SHA256: 5e6ed8c652bfdf0435a0f36d44ecf86480049fffe79760c04dae5d7e8f4f688d
+Section: Tweaks
+Description: Enables battery and record buttons in Control Center.
+Author: mbo42
+Name: CCAdditions
+
+Package: com.mbo42.copymapsdestination
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 120
+Depends: mobilesubstrate, firmware(>= 10)
+Filename: ./debs/com.mbo42.copymapsdestination_1.0_iphoneos-arm.deb
+Size: 5350
+MD5sum: 9dd7e65f3ead6b6f414430797cf91936
+SHA1: 6a80beeda2c54c996a55041f2eaabcd2446bf799
+SHA256: 7d726295a376b697ddfb67fd8f11ca5229c602f619d72f8642c7c25ed8329f5c
+Section: Tweaks
+Description: Adds an option to copy the destination on Apple Maps when in "directions" mode.
+Author: mbo42
+Name: CopyMapsDestination
+
+Package: com.mbo42.momoautoswipe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 120
+Depends: mobilesubstrate, firmware(>= 8)
+Filename: ./debs/com.mbo42.momoautoswipe_1.0_iphoneos-arm.deb
+Size: 7892
+MD5sum: 2c6fcf705b2759c2c83c6199b5168317
+SHA1: 28401846b5c65375720fd63177557bae28d9b5ba
+SHA256: 009b68243ff8278fbbe6174f2de00287eb19a57d641b433e34ba97f7c4096ef1
+Section: Tweaks
+Description: Auto swipe those cards!
+Author: mbo42
+Name: MomoAutoSwipe
+
+Package: com.mbo42.proxyswitcher
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 640
+Depends: mobilesubstrate, PreferenceLoader,firmware(>= 8), firmware (<< 9.1) | org.thebigboss.libstatus9, firmware (>= 9.0) | libstatusbar
+Filename: ./debs/com.mbo42.proxyswitcher_1.0_iphoneos-arm.deb
+Size: 75982
+MD5sum: 1da4174eb5c1f41e442bc2dd7af16270
+SHA1: 089094fd8fee8f74010cdbb9812b1045359c41a9
+SHA256: 3cefbb260965148d8a498dfa86829182712445c432e26be4d2c4e8f46ca5b767
+Section: Tweaks
+Description: Easily toggle between using a proxy on WiFi.
+Author: mbo42
+Icon: file:///Library/Application Support/ProxySwitcher/ProxySwitcherBundle.bundle/icon.png
+Name: ProxySwitcher
+
+Package: com.mbo42.tinderpreview
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 188
+Depends: mobilesubstrate, firmware(>= 8)
+Filename: ./debs/com.mbo42.tinderpreview_1.0_iphoneos-arm.deb
+Size: 32072
+MD5sum: 1305d6ca0e6c14e8afea46d6c637e2e0
+SHA1: 78f6fc5f8b45c191603fff40d2d17e5481e9cb40
+SHA256: fcae7479351d03d0789f5b9dd07c258ffdb4976537d4cd90ad0f943def5438c4
+Section: Tweaks
+Description: A small tweak that adds a convenient way of previewing and handling matches in Tinder.
+Author: mbo42
+Name: TinderPreview
+
