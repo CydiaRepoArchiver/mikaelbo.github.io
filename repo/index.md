@@ -5,7 +5,8 @@ subtitle: My public jailbreak tweaks/apps repository
 use-site-title: true
 ---
 
-{% markdown %}
+<div markdown="1">
+
 ## Projects
 
 * ProxySwitcher - A simple way to toggle using proxy for WiFi
@@ -17,6 +18,6 @@ use-site-title: true
 
 <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://mbo42.com/repo/" class="btn btn-primary" role="button">Add repo to device</a>
 
-{% endmarkdown %}
+</div>
 
 
