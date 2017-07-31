@@ -15,16 +15,16 @@ Author: mbo42
 Name: CopyRedditTexts
 
 Package: com.mbo42.WeChatEnvelope
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: mbo42
 Installed-Size: 212
 Depends: mobilesubstrate, firmware(>= 8)
-Filename: ./debs/com.mbo42.WeChatEnvelope_1.0_iphoneos-arm.deb
-Size: 72426
-MD5sum: 9f302c3eb1a7b3d8e7cfedf558fd2d47
-SHA1: 06bcf4b9f64ae67a03aa094520f7684d54a8c16c
-SHA256: 2e917794327915a97293e3669b4b9d6b8dd4e1342bb02aaafe4e40df3b49f93a
+Filename: ./debs/com.mbo42.WeChatEnvelope_1.0.1_iphoneos-arm.deb
+Size: 73832
+MD5sum: edb38cead16dc3d21bac075e38fbd240
+SHA1: dc94eed37d9bee1bc801ccbd63b23d4d40fa5f33
+SHA256: 8d1f3ffb0a30ae17a805c0ba847bc7222fec1d9d425d1014f2e0c5f7914f82be
 Section: Tweaks
 Description: WeChat - reimagined. Jk, just a small tweak for opening red envelopes.
 Author: mbo42
