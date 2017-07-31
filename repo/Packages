@@ -1,3 +1,19 @@
+Package: com.mbo42.CopyRedditTexts
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: mbo42
+Installed-Size: 120
+Depends: mobilesubstrate, firmware(>= 8)
+Filename: ./debs/com.mbo42.CopyRedditTexts_1.0_iphoneos-arm.deb
+Size: 7842
+MD5sum: 9bf217a1fa0f3e49d8ad9c2fe5f1cf4f
+SHA1: 57dee071f72a2b202da72680a76decb6963bc7c2
+SHA256: 30258f1f2431625efb2f41a2d0e00685d04eec8e0aa59de18936e56752b6d4ac
+Section: Tweaks
+Description: Copy the text on Reddit posts and comments.
+Author: mbo42
+Name: CopyRedditTexts
+
 Package: com.mbo42.WeChatEnvelope
 Version: 1.0
 Architecture: iphoneos-arm
