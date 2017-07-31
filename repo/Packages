@@ -63,23 +63,6 @@ Description: Auto swipe those cards!
 Author: mbo42
 Name: MomoAutoSwipe
 
-Package: com.mbo42.proxyswitcher
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: mbo42
-Installed-Size: 640
-Depends: mobilesubstrate, PreferenceLoader,firmware(>= 8), firmware (<< 9.1) | org.thebigboss.libstatus9, firmware (>= 9.0) | libstatusbar
-Filename: ./debs/com.mbo42.proxyswitcher_1.0_iphoneos-arm.deb
-Size: 75982
-MD5sum: 1da4174eb5c1f41e442bc2dd7af16270
-SHA1: 089094fd8fee8f74010cdbb9812b1045359c41a9
-SHA256: 3cefbb260965148d8a498dfa86829182712445c432e26be4d2c4e8f46ca5b767
-Section: Tweaks
-Description: Easily toggle between using a proxy on WiFi.
-Author: mbo42
-Icon: file:///Library/Application Support/ProxySwitcher/ProxySwitcherBundle.bundle/icon.png
-Name: ProxySwitcher
-
 Package: com.mbo42.tinderpreview
 Version: 1.0
 Architecture: iphoneos-arm

@@ -9,7 +9,6 @@ use-site-title: true
 
 ## Projects
 
-* ProxySwitcher - A simple way to toggle using proxy for WiFi
 * WeChatEnvelope - UI based tweak to automatically open red envelopes in WeChat
 * MomoAutoSwipe - Automatically swipe Momo cards left or right
 * CCAdditions - Adds record and battery buttons to iOS 10 Control Center
